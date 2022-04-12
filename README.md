@@ -14,19 +14,13 @@ a pseudo-class is used to special state of an element.
 
 ## 3). How is specificity applied?
 
-<p  style="background : #ededed; color: black;">
-</p>
-  <span  style=" color:#5c5204;">
-  </span>
-</p>
-
-<p  style="background : #ededed; color: black;" >
-Specificity is the mean by which browsers decide which CSS Property 
-values are the most relevant to an element and, therefore, will be applies 
+```bash
+Specificity is the mean by which browsers decide which CSS Property
+values are the most relevant to an element and, therefore, will be applies
 specificty is based on the matching rules are composed of different sorts of CSS Selectors. Specificity only applies when the element is targeted by multiple declaration.
-for example :<span  style=" color:#5c5204;"> If there are two or more css rules that point to the
+for example : If there are two or more css rules that point to the
    same  element & Style Visited and unvisited links differently. </span>
-</span>
-</p>
+
+```
 
 ## 4). What method allows an element to be moved from its current position?
