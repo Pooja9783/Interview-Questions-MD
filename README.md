@@ -1,4 +1,4 @@
-\*# CSS Interview Question
+# CSS Interview Question
 
 ## 1). how to add comments on css?
 
